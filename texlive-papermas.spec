@@ -1,6 +1,6 @@
 Name:		texlive-papermas
 Version:	23667
-Release:	1
+Release:	2
 Summary:	Compute the mass of a printed version of a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/papermas
