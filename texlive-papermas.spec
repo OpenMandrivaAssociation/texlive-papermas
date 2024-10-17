@@ -3,7 +3,7 @@ Version:	66835
 Release:	1
 Summary:	Compute the mass of a printed version of a document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/papermas
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/papermas
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/papermas.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/papermas.doc.r%{version}.tar.xz
